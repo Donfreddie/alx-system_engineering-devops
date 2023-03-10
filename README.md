@@ -1,1 +1,1 @@
-my edited First Freadme shell basics
+my edited first readme shell basics
