@@ -1,1 +1,1 @@
-shell basics
+my edicted First Freadme shell basics
