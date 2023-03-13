@@ -1,2 +1,2 @@
 #!/bin/bash
-su betty<F11>
+su betty
